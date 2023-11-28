@@ -1,0 +1,2 @@
+# forecast-of-seasonal-precipitation-and-evapotranspiration
+This project focuses on leveraging Long Short-Term Memory (LSTM) neural networks for the purpose of forecasting seasonal precipitation and evapotranspiration in Taoura, Algeria. The accurate prediction of these meteorological variables is crucial for various sectors, including agriculture, water resource management, and environmental planning.
